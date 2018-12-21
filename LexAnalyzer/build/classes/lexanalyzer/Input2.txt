@@ -1,0 +1,70 @@
+public abstract class a extends b
+{
+  public static final var a[] = new var[6];
+  stack a[][] = new stack[6][3];
+  var xyz[][] = {1, (++a+b|c), 3},
+                {a, true, t},
+                {"safi", 5, 's'};
+
+  construct(){
+    this(a,f,z);
+  }
+
+  construct(stack a, d f[], var z)
+  { 
+    super(a,5);
+    this.a=super.b;
+    b = new v();
+    
+    a = new var[5];
+    a[0][4] = a[3][2];
+    a[1] = 'd';
+
+    fd c = new fd();
+    var b = a>5||!(a>6);
+    stack c = a[3][5].safi(); 
+    queue d = (++a|b);
+    a(b,c);
+  }
+
+  public var[][] a (var v[][], fd h[]) throws g
+  {
+    this.a+=a.f();
+    a++.b;
+    ++a;
+    gh c = new gh();
+    var a;
+
+    if(a>5){
+      while(!(a==5)){
+        a=new b();
+        for(a=7;(a+7)<7||b.g().a.fn();a+=5)
+          return true;
+        continue;
+      }
+      return a;
+    }
+    try{
+    }
+    catch(a g){
+    }
+    finally{
+    }
+  }
+}
+
+final class b implements a{
+  private a[] fn(){
+    do{
+      switch(a){
+        case a||b.h():{
+        }
+        case 5:{
+        }
+        default:{
+        }
+      }
+    }
+    while(!(a||(b+5)<a.h()));
+  }
+}

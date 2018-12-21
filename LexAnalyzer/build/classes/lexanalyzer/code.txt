@@ -1,0 +1,37 @@
+"gh\sds\"sd"hjsa
+abc++-++--- cl 'a' ass auto//mata
+{
+'\''
+var count=0a.b4;
+var str="this is "String";
+var count=12;
+var ch='a';
+var str2="this is \"string";
+
+regex=MyRegex();
+
+//This is contructor
+construct(count1,str1)
+{
+ this.count=count1;
+ this.str1=str1;    
+}
+
+public divide(a,b)
+{
+  if(a=>>b)
+  {
+    return c=(a/b); 
+  }
+  else if(a===b)
+  {
+    return c=(a/b); 
+  }
+  else
+  {
+    return c=(b/a); 
+  }
+}
+break;
+
+}
